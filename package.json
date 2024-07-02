@@ -3,7 +3,7 @@
     "displayName": "Violet Flask",
     "description": "A theme around the color purple with a dark background and neon-esque colors.",
     "publisher": "LegeBeker",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.66.0"
     },
