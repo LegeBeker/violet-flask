@@ -57,6 +57,9 @@
 		"gitDecoration.submoduleResourceForeground": "#82AAFF",
 		"gitDecoration.stageModifiedResourceForeground": "#FFCB6B",
 		"gitDecoration.stageDeletedResourceForeground": "#FF5370",
+		"editorIndentGuide.background1": "#2d2d68",
+		"editorIndentGuide.activeBackground1": "#4d3dc6",
+
 	},
 	"tokenColors": [
 		{
